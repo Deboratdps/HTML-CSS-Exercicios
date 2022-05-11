@@ -1,0 +1,13 @@
+1. Qual a diferença da unidade de medida em e rem?
+R: A em vai procurar a formatação do próximo elemento pai
+O rem vai pegar as unidades de medida baseada no root (html)
+
+2. Como é criada uma variável no CSS? Dê um exemplo
+R:
+:root{
+    --cor-background-body: rgb(236,239,241)
+}
+
+body{
+    background-color: var(--cor-background-body);
+}

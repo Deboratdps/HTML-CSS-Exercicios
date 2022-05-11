@@ -1,0 +1,9 @@
+1. O que a propriedade CSS padding irá porporcionar em um elemento HTML?
+R: O padding irá proporcionar um preenchimento interno no elemento.
+
+2. É verdade que todos os elementos HTML possuem por padrão a propriedade position no estado STICK?
+R: Não, por padrão a propriedade é o STATIC.
+
+3. Qual é a vantagem de utilizar o atributo ALT em um elemento <img>?
+R: Se a imagem não for carregada, irá aparecer a descrição da imagem. Outra vantagem é que o leitores de tela irão 
+auxiliar as pessoas com deficiencia visual qual é a imagem e a descrição dela.

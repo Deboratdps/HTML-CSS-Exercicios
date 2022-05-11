@@ -1,0 +1,9 @@
+1. No CSS um elemnto filho pode ser referenciado por uma separação de espaço.
+R: Sim, também com o sinal de ">"
+#PAI > #FILHO1 > #FILHO_DO_FILHO
+
+2. A propriedade CSS bacground-size permitirá renderizar um tamanho, além de alterar o tamanho do arquivo.
+R: Não altera o tamanho do arquivo.
+
+3. A tag responsável por criar títulos em até 6 níveis é a HEADER.
+R: Não, é a tag h1, h2, h3, h4, h5, h6.
