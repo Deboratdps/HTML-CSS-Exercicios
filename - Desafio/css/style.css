@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+fieldset.fieldsetIndex{
+    width: 300px;
+    height: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+    margin: 300px 0 0 600px;
+}
+
+fieldset.fieldsetIndex div.divUsuario, div.divSenha{
+    width: 100%;
+    padding: 5px;
+}
+
+.text{
+    width: 100%;
+    height: 30px;
+}
+
+.layoutBtn{
+    padding: 10px;
+    width: 97%;
+    margin: 5px;
+    border: none;
+    background-color: deepskyblue;
+    color: #fff;
+    cursor: pointer;
+}
+/*---------FIM INDEX.HTML-----------------------------------------*/
+
+fieldset.fieldsetPanel{
+    width: 300px;
+    height: 100vh;
+    /* background-color: chocolate; */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    padding: 5px;
+    border-bottom: none;
+}
+
+fieldset.fieldsetPanel div.clientes, div.produtos, div.pedidos{
+    width: 100%;
+    height: auto;
+    padding: 10px 5px 5px 5px;
+    cursor: pointer;
+    
+}
+/*---------FIM PANEL.HTML-----------------------------------------*/

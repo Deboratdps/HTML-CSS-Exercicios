@@ -1,0 +1,8 @@
+1. Dê uma definição para o elemento HTML <body>.
+R: O body é uma das tags mais importantes, é dentre dele que irá construir toda a estrutura html da sua pag, corresponde ao corpo de todo o conteúdo.
+
+2. É correto dizer que por padrão todos os elementos HTML possuem uma definição de margin e padding?
+R: Não, nem todos os elementos possuem margin e padding. 
+
+3. Uma tag <figure> pode conter várias tags <figurecaption>?
+R: Não, somente uma pois é como um título.
